@@ -1,0 +1,42 @@
+body {
+  padding-top: 50px;
+  font: 14px Montserrat, sans-serif;
+  line-height: 1.2;
+  color: #f5f6f7;
+}
+.padding-box {
+  margin-top: 30px;
+}
+.padding-head {
+  padding-bottom: 20px;
+}
+.bg-1, .bg-7 {
+      background-color: #1abc9c; /* Green */
+      color: #ffffff;
+      padding-top: 30px;
+      padding-bottom: 30px;
+  }
+  .bg-2, .bg-6 {
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.bg-5, .bg-8 {
+    background-color: #eaeaea; /* Gray */
+    color: #5a5b5b;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.bg-3 {
+    background-color: #ed981a; /* Orange */
+    color: #ffffff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.bg-4 {
+    background-color: #1a9ced; /* Blue */
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
